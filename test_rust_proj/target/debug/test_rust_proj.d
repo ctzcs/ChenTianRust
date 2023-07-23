@@ -1,0 +1,1 @@
+E:\MyWorkSpace\LearnRust2\ChenTianRust\test_rust_proj\target\debug\test_rust_proj.exe: E:\MyWorkSpace\LearnRust2\ChenTianRust\test_rust_proj\src\foldmod\fruit.rs E:\MyWorkSpace\LearnRust2\ChenTianRust\test_rust_proj\src\foldmod.rs E:\MyWorkSpace\LearnRust2\ChenTianRust\test_rust_proj\src\main.rs E:\MyWorkSpace\LearnRust2\ChenTianRust\test_rust_proj\src\mod1.rs

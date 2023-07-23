@@ -1,0 +1,11 @@
+[package]
+name = "scrape_url"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+#reqwest是一个http客户端，使用方式和python下的quest类似，html2md是吧html转markdown
+reqwest = {version = "0.11.17",features = ["blocking"]}
+html2md = "0.2.14"

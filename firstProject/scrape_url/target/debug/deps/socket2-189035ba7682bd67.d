@@ -1,0 +1,11 @@
+E:\MyWorkSpace\LearnRust2\ChenTianRust\firstProject\scrape_url\target\debug\deps\socket2-189035ba7682bd67.rmeta: C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\socket2-0.4.9\src\lib.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\socket2-0.4.9\src\sockaddr.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\socket2-0.4.9\src\socket.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\socket2-0.4.9\src\sockref.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\socket2-0.4.9\src\sys\windows.rs
+
+E:\MyWorkSpace\LearnRust2\ChenTianRust\firstProject\scrape_url\target\debug\deps\libsocket2-189035ba7682bd67.rlib: C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\socket2-0.4.9\src\lib.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\socket2-0.4.9\src\sockaddr.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\socket2-0.4.9\src\socket.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\socket2-0.4.9\src\sockref.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\socket2-0.4.9\src\sys\windows.rs
+
+E:\MyWorkSpace\LearnRust2\ChenTianRust\firstProject\scrape_url\target\debug\deps\socket2-189035ba7682bd67.d: C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\socket2-0.4.9\src\lib.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\socket2-0.4.9\src\sockaddr.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\socket2-0.4.9\src\socket.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\socket2-0.4.9\src\sockref.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\socket2-0.4.9\src\sys\windows.rs
+
+C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\socket2-0.4.9\src\lib.rs:
+C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\socket2-0.4.9\src\sockaddr.rs:
+C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\socket2-0.4.9\src\socket.rs:
+C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\socket2-0.4.9\src\sockref.rs:
+C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\socket2-0.4.9\src\sys\windows.rs:

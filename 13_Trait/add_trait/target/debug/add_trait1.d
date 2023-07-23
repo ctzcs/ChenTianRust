@@ -1,0 +1,1 @@
+E:\MyWorkSpace\LearnRust2\ChenTianRust\13_Trait\add_trait1\target\debug\add_trait1.exe: E:\MyWorkSpace\LearnRust2\ChenTianRust\13_Trait\add_trait1\src\add1.rs E:\MyWorkSpace\LearnRust2\ChenTianRust\13_Trait\add_trait1\src\main.rs

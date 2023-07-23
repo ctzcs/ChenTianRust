@@ -1,0 +1,11 @@
+E:\MyWorkSpace\LearnRust2\ChenTianRust\firstProject\scrape_url\target\debug\deps\phf-4b1366cf939213e4.rmeta: C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\phf-0.10.1\src/lib.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\phf-0.10.1\src\map.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\phf-0.10.1\src\ordered_map.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\phf-0.10.1\src\ordered_set.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\phf-0.10.1\src\set.rs
+
+E:\MyWorkSpace\LearnRust2\ChenTianRust\firstProject\scrape_url\target\debug\deps\libphf-4b1366cf939213e4.rlib: C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\phf-0.10.1\src/lib.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\phf-0.10.1\src\map.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\phf-0.10.1\src\ordered_map.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\phf-0.10.1\src\ordered_set.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\phf-0.10.1\src\set.rs
+
+E:\MyWorkSpace\LearnRust2\ChenTianRust\firstProject\scrape_url\target\debug\deps\phf-4b1366cf939213e4.d: C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\phf-0.10.1\src/lib.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\phf-0.10.1\src\map.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\phf-0.10.1\src\ordered_map.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\phf-0.10.1\src\ordered_set.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\phf-0.10.1\src\set.rs
+
+C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\phf-0.10.1\src/lib.rs:
+C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\phf-0.10.1\src\map.rs:
+C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\phf-0.10.1\src\ordered_map.rs:
+C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\phf-0.10.1\src\ordered_set.rs:
+C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\phf-0.10.1\src\set.rs:
